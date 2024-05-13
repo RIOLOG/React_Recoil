@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot (412)](https://github.com/RIOLOG/React_Recoil/assets/84015430/913f1b10-7449-4481-ab2d-89ee1903daf6)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
